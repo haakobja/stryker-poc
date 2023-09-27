@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hjahre/Projects/stryker/stryker-test/stryker-test.csproj": {}
+  },
+  "projects": {
+    "/home/hjahre/Projects/stryker/stryker-test/stryker-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hjahre/Projects/stryker/stryker-test/stryker-test.csproj",
+        "projectName": "stryker-test",
+        "projectPath": "/home/hjahre/Projects/stryker/stryker-test/stryker-test.csproj",
+        "packagesPath": "/home/hjahre/.nuget/packages/",
+        "outputPath": "/home/hjahre/Projects/stryker/stryker-test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hjahre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

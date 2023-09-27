@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = stryker.test
+build_property.ProjectDir = /home/hjahre/Projects/stryker/stryker-test/
