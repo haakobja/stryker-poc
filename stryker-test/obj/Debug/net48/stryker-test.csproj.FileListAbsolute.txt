@@ -1,4 +1,0 @@
-/home/hjahre/Projects/stryker/stryker-test/bin/Debug/net48/stryker-test.exe.config
-/home/hjahre/Projects/stryker/stryker-test/obj/Debug/net48/stryker-test.GeneratedMSBuildEditorConfig.editorconfig
-/home/hjahre/Projects/stryker/stryker-test/obj/Debug/net48/stryker-test.AssemblyInfoInputs.cache
-/home/hjahre/Projects/stryker/stryker-test/obj/Debug/net48/stryker-test.AssemblyInfo.cs
